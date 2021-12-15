@@ -6,6 +6,8 @@
     "functions/io-functions-cgn-merchant": "https://github.com/pagopa/io-functions-cgn-merchant",
     "functions/io-functions-cgn-operator-search": "https://github.com/pagopa/io-functions-cgn-operator-search",
     "testing/cgn_load_tests": "https://github.com/pagopa/cgn_load_tests",
-    "infrastructure/cgn-onboarding-portal-infra": "https://github.com/pagopa/cgn-onboarding-portal-infra"
+    "infrastructure/cgn-onboarding-portal-infra": "https://github.com/pagopa/cgn-onboarding-portal-infra",
+    "commons/hub-spid-login-ms": "https://github.com/pagopa/hub-spid-login-ms",
+    "commons/ade-aa-ms-mock": "https://github.com/pagopa/ade-aa-ms-mock"
   }
 }

@@ -9,6 +9,10 @@
         "path": "./functions"
       },
       {
+        "name": "Commons",
+        "path": "./commons"
+      },
+      {
         "name": "Testing",
         "path": "./testing"
       },
@@ -35,11 +39,13 @@
         "portal": true,
         "functions": true,
         "testing": true,
+        "commons": true,
         "infrastructure": true
       },
       "editor.showFoldingControls": "always",
       "scm.diffDecorationsGutterWidth": 5,
-      "editor.renderLineHighlight": "all"
+      "editor.renderLineHighlight": "all",
+      "java.configuration.updateBuildConfiguration": "automatic"
     }
   }
   
